@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Из чего состоит персональный компьютер?",
+    "answers": [
+      {
+        "answer": "системного блока",
+        "result": true
+      },
+      {
+        "answer": "монитора",
+        "result": true
+      },
+      {
+        "answer": "клавиатуры",
+        "result": true
+      },
+      {
+        "answer": "дополнительных устройств",
+        "result": false
+      },
+      {
+        "answer": "комплекса мультимедиа",
+        "result": false
+      }
+    ]
+  }
+]
