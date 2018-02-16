@@ -13,5 +13,4 @@ if (!empty($_POST['name_form']))
     header('Content-Type: image/jpeg');
     imagejpeg($im);
     imagedestroy($im);
-    echo $im;
 }
